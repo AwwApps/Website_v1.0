@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1020px" height="1020px" viewBox="0 0 1020 1020" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>AppIcon_Placed</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#50E3C2" offset="0%"></stop>
+            <stop stop-color="#23D3AC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="AppIcon_Placed" sketch:type="MSArtboardGroup">
+            <g id="AppIconTemplate-+-Group" sketch:type="MSLayerGroup" fill="url(#linearGradient-1)">
+                <g id="AppIconTemplate" sketch:type="MSShapeGroup">
+                    <g id="layer5">
+                        <rect id="rect4108" x="0" y="0" width="1024" height="1024"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(86.000000, 86.000000)">
+                <path d="M423.81238,741.278393 C600.032834,741.278393 742.887722,598.432226 742.887722,422.22253 C742.887722,246.012834 600.032834,103.166667 423.81238,103.166667 C247.591925,103.166667 104.737037,246.012834 104.737037,422.22253 C104.737037,598.432226 247.591925,741.278393 423.81238,741.278393 Z" id="Oval" fill="#B1F1E3" sketch:type="MSShapeGroup"></path>
+                <path d="M423.796232,672.885929 C562.248876,672.885929 674.486908,560.654749 674.486908,422.210557 C674.486908,283.766365 562.248876,171.535185 423.796232,171.535185 C285.343588,171.535185 173.105556,283.766365 173.105556,422.210557 C173.105556,560.654749 285.343588,672.885929 423.796232,672.885929 Z" id="Oval" fill="#4DE2C1" sketch:type="MSShapeGroup"></path>
+                <path d="M424,775.762963 C619.140621,775.762963 777.333333,617.570251 777.333333,422.42963 C777.333333,227.289008 619.140621,69.0962963 424,69.0962963 C228.859379,69.0962963 70.6666667,227.289008 70.6666667,422.42963 C70.6666667,617.570251 228.859379,775.762963 424,775.762963 Z" id="Oval" stroke="#FFFFFF" stroke-width="74" opacity="0.3" sketch:type="MSShapeGroup"></path>
+                <ellipse id="Oval" stroke="#FFFFFF" stroke-width="74" opacity="0.0973011364" sketch:type="MSShapeGroup" cx="423.227687" cy="424.780847" rx="423.227687" ry="424.780847"></ellipse>
+            </g>
+            <path d="M395.711067,594.285251 C443.825041,657.985633 510,713 510,713 C510,713 584.4745,651.62012 633.468051,583.457727 C660.747599,545.50499 676,505.449507 676,472.715952 C676,381.193554 601.679273,307 510,307 C418.320727,307 344,381.193554 344,472.715952 C344,508.58133 364.706427,553.23673 395.711067,594.285251 Z" id="Oval-13" fill="#FFFFFE" sketch:type="MSShapeGroup"></path>
+            <path d="M509.747878,504.081816 C535.103225,504.081816 555.657792,483.528504 555.657792,458.174705 C555.657792,432.820905 535.103225,412.267593 509.747878,412.267593 C484.392531,412.267593 463.837963,432.820905 463.837963,458.174705 C463.837963,483.528504 484.392531,504.081816 509.747878,504.081816 Z" id="Oval" fill="#4DE2C1" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

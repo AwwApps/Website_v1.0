@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+#header {
+  background-color: #E2EEF5;
+  height: 2000px; }
+
+/*////////////////////////////////////////////////////////////////////////////*/
+/*                                 AWW BAR                                    */
+/*////////////////////////////////////////////////////////////////////////////*/
+#awwBar {
+  height: 60px;
+  background-color: #6874F4;
+  position: fixed;
+  top: 0;
+  width: 100%; }
+  #awwBar img {
+    display: block;
+    margin: 0 auto;
+    height: 40px;
+    padding: 10px 0px; }
+
+body:nth-child(2) {
+  margin-top: 60px; }
